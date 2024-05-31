@@ -1,5 +1,7 @@
 # Gerenciador de Backup de Arquivos com Shell Script
 
+**Nota:** 9,30 / 10,00
+
 ## Objetivo
 
 Desenvolver uma ferramenta para gerenciamento de backup de arquivos utilizando Shell script, preferencialmente bash.
@@ -49,3 +51,6 @@ O script pede confirmação de término e termina a execução, se confirmado.
 $ chmod +x backupMan.sh
 $ .\backupMan.sh
 ```
+## Comentários de Feedback:
+Selecionar um diretório->necessário digitar o nome do diretório
+
